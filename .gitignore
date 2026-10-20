@@ -1,10 +1,5 @@
-*.fxp  
-*.bak  
-*.tbk  
-*.err  
-*.dbf  
-*.cdx  
-*.fpt  
-*.dbc  
-*.dct  
-*.dcx 
+*.fxp
+*.bak
+*.tbk
+*.err
+*.pjm
